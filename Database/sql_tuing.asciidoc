@@ -1,0 +1,6 @@
+b-tree
+b+-tree
+
+leaf node traverse
+
+execution plan
